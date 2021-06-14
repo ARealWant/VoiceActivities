@@ -3,3 +3,16 @@ Discord is testing and developing many new voice activities, including the well-
 
 ![Banner](https://cdn.discordapp.com/attachments/779697441691664429/853933069949599744/Voice_Activities_Banner.png)
 ### [Invite VoiceActivities to your Discord server](https://discord.com/oauth2/authorize?client_id=853706153892773888&scope=bot&permissions=379969)
+
+# Let's start with VoiceActivities!
+## Prepare
+To start with Voice Activities be sure that the bot has enough permissions, permissions may also have been overwritten in text channels, check this and only then start. Of course the bot also needs all permissions to see the respective voice channels and generate invitelinks.
+
+## Usage
+To use VoiceActivities use the prefix **"v!"** or simply mention the bot. You can see all important commands and information with the help command (**v!help**).
+
+## Start session
+To start a session like YouTube Together use the command **v!start <name-id>**.
+ 
+## All Name IDs for insertion
+YouTube Together -> **youtube**
