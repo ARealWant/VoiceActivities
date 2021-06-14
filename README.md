@@ -12,7 +12,7 @@ To start with Voice Activities be sure that the bot has enough permissions, perm
 To use VoiceActivities use the prefix **"v!"** or simply mention the bot. You can see all important commands and information with the help command (**v!help**).
 
 ## Start session
-To start a session like YouTube Together use the command **v!start** <name-id>.
+To start a session like YouTube Together use the command **v!start name-id**.
  
 ## All Name IDs for insertion
 To start "YouTube Together" use "**youtube**" (v!start youtube)  
