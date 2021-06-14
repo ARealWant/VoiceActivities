@@ -21,3 +21,7 @@ To start "Betrayal.io" use "**betrayal**" (v!start betrayal)
 To start "Fishing" use "**fishing**" (v!start fishing)  
 To start "Chess" use "**chess**" (v!start chess)
 
+# Screenshots of VoiceActivities
+![Banner](https://cdn.discordapp.com/attachments/779697441691664429/853729372849831986/bfa2cb01b91357a72ded59cbdac0b5db.png)
+![Banner](https://cdn.discordapp.com/attachments/779697441691664429/853728391210860584/7a8a6a1d86298f4dc23ab05c34099295.png)
+![Banner](https://cdn.discordapp.com/attachments/779697441691664429/853729822865227827/d916f2fcfcbbeaba5eb43ca4dd8cd3c5.png)
