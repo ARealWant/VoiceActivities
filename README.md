@@ -17,9 +17,9 @@ To use VoiceActivities use the prefix **"v!"** or simply mention the bot. You ca
 To start a session like YouTube Together use the command **v!start <name-id>**.
  
 ## All Name IDs for insertion
-To start "YouTube Together" use "**youtube**" (v!start youtube)
-To start "Poker Night" use "**poker**" (v!start poker)
-To start "Betrayal.io" use "**betrayal**" (v!start betrayal)
-To start "Fishing" use "**fishing**" (v!start fishing)
+To start "YouTube Together" use "**youtube**" (v!start youtube)  
+To start "Poker Night" use "**poker**" (v!start poker)  
+To start "Betrayal.io" use "**betrayal**" (v!start betrayal)  
+To start "Fishing" use "**fishing**" (v!start fishing)  
 To start "Chess" use "**chess**" (v!start chess)
 
