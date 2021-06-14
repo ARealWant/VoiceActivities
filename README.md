@@ -3,4 +3,4 @@ Discord is testing and developing many new voice activities, including the well-
 
 ![Banner](https://cdn.discordapp.com/attachments/779697441691664429/853933069949599744/Voice_Activities_Banner.png)
 
-# Invite VoiceActivities to your Discord server
+### [Invite VoiceActivities to your Discord server](https://discord.com/oauth2/authorize?client_id=853706153892773888&scope=bot&permissions=379969)
