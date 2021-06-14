@@ -1,14 +1,23 @@
-mkdir assets && cd assets
-mkdir css && cd css
-echo '---' >> style.scss
-echo '---' >> style.scss
-echo >> style.scss
-echo '@import "{{ site.theme }}";' >> style.scss
+---
+---
 
-@import"{{ site.theme }}";
+@import "{{ site.theme }}";
 
-.page-header{
-color:#ffff;
-background-color:#D1C414;
-background-image:linear-gradient(120deg,#D1C414,#D1C414);
-}
+  .btn {
+    color: #0000ff;
+    border-color: #0000ff; 
+    // background-color: #008CBA;
+  } 
+
+  .btn:hover {
+    color: #0bb6e1cc;
+    text-decoration: none;
+    background-color: #7c940ea1;
+    border-color: #0000ff;
+  }
+
+  .page-header{
+  color:#ffff;
+  background-color:#D1C414;
+  background-image:linear-gradient(120deg,#D1C414,#D1C414);
+  }
